@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Neelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vanapalli-sridevi-6b71131a4/)](https://www.linkedin.com/in/vanapalli-sridevi-6b71131a4/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sridevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vanapalli-sridevi-6b71131a4/)](https://www.linkedin.com/in/vanapalli-sridevi-6b71131a4/)
 
 
 I'm
